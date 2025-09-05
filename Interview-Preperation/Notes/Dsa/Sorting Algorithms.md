@@ -135,3 +135,53 @@ public class Main{
 - Best case - Sorted Array O(n)
 - This is best Sort
 - Using hybrid sort we can do more efficient stuffs.
+
+
+## Merge Sort
+- Divide and conquire
+- Dividing the elements and conquiring it
+![[Pasted image 20250905134905.png]]
+
+- Here once single digit comes it will return and not calling the mid again so it will maintain the previous value correctly
+- So directly two digits means [0, 1] will be used by the right and send it to the merge  and that return will be stored what will it call before.
+```
+import java.util.Arrays;  
+  
+public class MergeSort {  
+  
+    public static int[] mergeSort(int[] arr){  
+       if(arr.length == 1)  return arr;  
+  
+       int mid = arr.length /2;  
+  
+       int[] left = mergeSort(Arrays.copyOfRange(arr, 0, mid));  
+       int[] right = mergeSort(Arrays.copyOfRange(arr, mid, arr.length));  
+  
+       return merge(left, right);  
+    }  
+  
+    public static int[] merge(int[] first, int[] second){  
+        int[] joined = new int[first.length + second.length];  
+        int i=0, j=0, k=0;  
+  
+        while( i < first.length && j < second.length){  
+            if(first[i] < second[i]){  
+                joined[k] = first[i];  
+                i++;  
+                k++;  
+            }else{  
+                joined[k] = second[j];  
+                k++;  
+                j++;  
+            }  
+  
+        }        while(i < first.length)  
+            joined[k++] = first[i++];  
+        while(i < second.length)  
+            joined[k++] = second[j++];  
+  
+        return joined;  
+    }  
+}
+```
+

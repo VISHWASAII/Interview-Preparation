@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dsa/Sorting Algorithms.md",
+                "file": "Dsa/Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting Algorithms"
+              "title": "Arrays"
             }
           }
         ],
@@ -184,10 +184,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ee81fa69ff25cb0",
+  "active": "005fb6f97c5488a7",
   "lastOpenFiles": [
-    "Dsa/LinkedList.md",
     "Dsa/Sorting Algorithms.md",
+    "Dsa/Arrays.md",
+    "Pasted image 20250905134905.png",
+    "Dsa/Basic Maths.md",
+    "Dsa/LinkedList.md",
     "Aptitute/Basic maths.md",
     "Aptitute/Required.md",
     "Practice/Practice.md",
