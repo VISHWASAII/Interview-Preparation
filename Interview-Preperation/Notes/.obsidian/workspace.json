@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dsa/Arrays.md",
+                "file": "Neetcode-150/Two Pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "Two Pointers"
+            }
+          },
+          {
+            "id": "208ce190039628c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neetcode-150/Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tree"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "right": {
     "id": "5abe7c7a410b62e3",
@@ -184,20 +198,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "005fb6f97c5488a7",
+  "active": "7ee81fa69ff25cb0",
   "lastOpenFiles": [
-    "Dsa/Sorting Algorithms.md",
-    "Dsa/Arrays.md",
-    "Pasted image 20250905134905.png",
-    "Dsa/Basic Maths.md",
+    "Dsa/Tree.md",
+    "Interview-Quesitons/Java-Interview-Questiosn/Questions.md",
+    "Interview-Quesitons/Java-Interview-Questiosn/Images",
+    "Interview-Quesitons/Java-Interview-Questiosn/Images/Pasted image 20251020191056.png",
+    "Interview-Quesitons/Java-Interview-Questiosn/JVM JRE JDK.md",
+    "Interview-Quesitons/Java-Interview-Questiosn",
+    "Interview-Quesitons/Untitled.md",
+    "Interview-Quesitons/Self Intro And Resume.md",
+    "Dsa/Tries.md",
+    "Neetcode-150/Tree.md",
+    "Sql/Practice.md",
+    "Neetcode-150/Two Pointers.md",
+    "Interview-Quesitons/Java-Interview-Questiosn/Images/Pasted image 20251016234033.png",
+    "Dsa/Binary Search Tree.md",
+    "Dsa/Graph.md",
+    "Neetcode-150/Linked List.md",
+    "Dsa/AVL Tree.md",
+    "Interview-Quesitons",
     "Dsa/LinkedList.md",
-    "Aptitute/Basic maths.md",
+    "Dsa/Sorting Algorithms.md",
+    "Neetcode-150/Array and hashing.md",
+    "Dsa/Arrays.md",
+    "Neetcode-150",
+    "Dsa/Heap.md",
     "Aptitute/Required.md",
+    "Codings-practicce/out/production/Codings-practicce/Heap.class",
+    "Codings-practicce/out/production/Codings-practicce/EntryPoint.class",
+    "Codings-practicce/out/production/Codings-practicce",
+    "Codings-practicce/out/production",
+    "Codings-practicce/out",
+    "Codings-practicce/EntryPoint.java~",
+    "Dsa/Image/Pasted image 20250927112353.png",
+    "Dsa/Image/Pasted image 20250922180540.png",
+    "Dsa/Image/Pasted image 20250922180331.png",
+    "Dsa/Image/Pasted image 20250922172236.png",
+    "Dsa/Image/Pasted image 20250922164648.png",
+    "Dsa/Image/Pasted image 20250922132130.png",
+    "Dsa/Image/Pasted image 20250921171938.png",
+    "Dsa/Basic Maths.md",
+    "Dsa/Recursion.md",
+    "Dsa/Image/Pasted image 20250920135917.png",
+    "Aptitute/Basic maths.md",
+    "Practice/Types of Functions.md",
     "Practice/Practice.md",
-    "Practice",
-    "Dsa",
-    "Pasted image 20250830151319.png",
-    "Welcome.md",
-    "Aptitute"
+    "Dsa/String.md"
   ]
 }

@@ -129,3 +129,77 @@ class Solution {
     }
 }
 ```
+
+## Move zeros to end
+- The j is baggage for the i
+```
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        int[] arr = {1, 0, 2, 3, 2, 0, 0, 4, 5, 1};
+        int j = 0; // pointer for placing non-zeros
+
+        for(int i=0; i<arr.length; i++){
+            if(arr[i] != 0){
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+                j++;
+            }
+        }
+        System.out.println(Arrays.toString(arr));
+    }
+}
+
+```
+
+## Finding Missing array
+
+- We need to make Sub sequent count array using that we need to make count
+- n + 1 and again plus for we are taking from 0 th index which is 3 then extra element so it is 4
+```
+
+import java.util.*;
+
+public class Main{
+    public static void main(String[] args){
+        
+        int[] arr = {1,2,4,5};
+        int[] hash = new int[arr.length + 2];
+        
+        for(int i=0; i<arr.length; i++){
+            hash[arr[i]]++;
+        }
+        for(int i=1; i<hash.length; i++){
+            if(hash[i] == 0) System.out.println(i);
+           
+        }
+    }
+}
+```
+
+## Finding maximum 1's in an array
+- Here we need to put the count after loop also 
+```
+import java.util.*;
+
+public class Main{
+    public static void main(String[] args){
+        
+        int[] arr = {1, 1, 0, 1, 1, 1};
+        int count = 0;
+        int max = 0;
+        for(int i=0; i<arr.length; i++){
+            if(arr[i] == 1){
+                count++;
+            }else if(arr[i] == 0){
+                max = Math.max(max, count);
+                count = 0;
+            }
+        }
+           max = Math.max(max, count);
+        System.out.println(max);
+    }
+}
+```

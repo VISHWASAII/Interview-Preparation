@@ -167,7 +167,7 @@ public class Main{
             for(int i=0; i<index; i++){
                 temp = temp.next;
             }
-            before = temp.prev;
+           w before = temp.prev;
             before.next = temp.next;
         }
 }
@@ -403,3 +403,5 @@ public class Solution {
 }
 ```
 - Similarly i need to remove the link which it got before
+
+
