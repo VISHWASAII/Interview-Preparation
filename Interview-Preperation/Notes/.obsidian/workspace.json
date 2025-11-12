@@ -4,53 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "096803c45b575c91",
+        "id": "3c8ddcd3072eddd0",
         "type": "tabs",
         "children": [
           {
-            "id": "98352be7379249a1",
+            "id": "cb4d969e65e54197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aptitute/Basic maths.md",
+                "file": "Interview-Quesitons/System Design/Saga Choreography and CQRS pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic maths"
+              "title": "Saga Choreography and CQRS pattern"
             }
           },
           {
-            "id": "005fb6f97c5488a7",
+            "id": "a6125aa90775f66b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Neetcode-150/Two Pointers.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.3"
               },
-              "icon": "lucide-file",
-              "title": "Two Pointers"
-            }
-          },
-          {
-            "id": "208ce190039628c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neetcode-150/Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tree"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,52 +182,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ee81fa69ff25cb0",
+  "active": "a6125aa90775f66b",
   "lastOpenFiles": [
-    "Dsa/Tree.md",
-    "Interview-Quesitons/Java-Interview-Questiosn/Questions.md",
-    "Interview-Quesitons/Java-Interview-Questiosn/Images",
-    "Interview-Quesitons/Java-Interview-Questiosn/Images/Pasted image 20251020191056.png",
-    "Interview-Quesitons/Java-Interview-Questiosn/JVM JRE JDK.md",
-    "Interview-Quesitons/Java-Interview-Questiosn",
-    "Interview-Quesitons/Untitled.md",
-    "Interview-Quesitons/Self Intro And Resume.md",
-    "Dsa/Tries.md",
-    "Neetcode-150/Tree.md",
-    "Sql/Practice.md",
-    "Neetcode-150/Two Pointers.md",
-    "Interview-Quesitons/Java-Interview-Questiosn/Images/Pasted image 20251016234033.png",
-    "Dsa/Binary Search Tree.md",
-    "Dsa/Graph.md",
-    "Neetcode-150/Linked List.md",
-    "Dsa/AVL Tree.md",
-    "Interview-Quesitons",
-    "Dsa/LinkedList.md",
+    "Interview-Quesitons/System Design/Apache Kafka.md",
+    "Interview-Quesitons/System Design/Saga Choreography and CQRS pattern.md",
+    "Interview-Quesitons/System Design/Work flow of Jwt and OAuth, sso.md",
+    "Interview-Quesitons/System Design/CSRF (Cross site Resource Forgery).md",
+    "Interview-Quesitons/System Design/Session and Jwt Based Authentication.md",
+    "Interview-Quesitons/System Design/XSS.md",
+    "Interview-Quesitons/Question Tackling.md",
+    "Interview-Quesitons/System Design/Header.md",
+    "Dsa/2d - Array.md",
+    "Interview-Quesitons/System Design",
     "Dsa/Sorting Algorithms.md",
+    "Pasted image 20251111221130.png",
+    "Interview-Quesitons/Java-Interview-Questiosn/Java Collection Questions.md",
+    "Interview-Quesitons/Java-Interview-Questiosn/Variables in java.md",
+    "Interview-Quesitons/Java-Interview-Questiosn/Memory Management.md",
+    "Interview-Quesitons/Java-Interview-Questiosn/JVM JRE JDK.md",
+    "Interview-Quesitons/Java-Interview-Questiosn/Java General Questions.md",
+    "Flutter/widgets.md",
+    "Dsa/Stack and Queue.md",
+    "Flutter",
+    "CRC.md",
+    "Untitled.base",
+    "Interview-Quesitons/React js/Interview.md",
+    "Interview-Quesitons/Javascript-Interview-questions/introduction.md",
+    "Interview-Quesitons/Images/Pasted image 20251103194407.png",
+    "Interview-Quesitons/Kubernetes/Introduction.md",
+    "Interview-Quesitons/Javascript-Interview-questions",
+    "Interview-Quesitons/Self Intro And Resume.md",
+    "Interview-Quesitons/React js",
+    "Interview-Quesitons/Kubernetes",
+    "Interview-Quesitons/Docker",
+    "Capgemini-Interview-preperation/Untitled.md",
+    "Capgemini-Interview-preperation/Preparation Table.md",
+    "Interview-Quesitons/Images/Pasted image 20251102192050.png",
+    "Interview-Quesitons/Devops-cloud-questions/General Questions.md",
+    "Interview-Quesitons/Devops-cloud-questions",
+    "Interview-Quesitons/Images/Pasted image 20251027195220.png",
+    "Interview-Quesitons/Images/Pasted image 20251027195202.png",
+    "Interview-Quesitons/Images/Pasted image 20251027190731.png",
+    "Interview-Quesitons/Images/Pasted image 20251027190613.png",
     "Neetcode-150/Array and hashing.md",
-    "Dsa/Arrays.md",
-    "Neetcode-150",
-    "Dsa/Heap.md",
-    "Aptitute/Required.md",
-    "Codings-practicce/out/production/Codings-practicce/Heap.class",
-    "Codings-practicce/out/production/Codings-practicce/EntryPoint.class",
-    "Codings-practicce/out/production/Codings-practicce",
-    "Codings-practicce/out/production",
-    "Codings-practicce/out",
-    "Codings-practicce/EntryPoint.java~",
-    "Dsa/Image/Pasted image 20250927112353.png",
-    "Dsa/Image/Pasted image 20250922180540.png",
-    "Dsa/Image/Pasted image 20250922180331.png",
-    "Dsa/Image/Pasted image 20250922172236.png",
-    "Dsa/Image/Pasted image 20250922164648.png",
-    "Dsa/Image/Pasted image 20250922132130.png",
-    "Dsa/Image/Pasted image 20250921171938.png",
-    "Dsa/Basic Maths.md",
-    "Dsa/Recursion.md",
-    "Dsa/Image/Pasted image 20250920135917.png",
-    "Aptitute/Basic maths.md",
-    "Practice/Types of Functions.md",
-    "Practice/Practice.md",
-    "Dsa/String.md"
+    "Capgemini-Interview-preperation",
+    "Interview-Quesitons/Dbms-sql-Interview-Questions",
+    "Interview-Quesitons/Images/Pasted image 20251025214833.png",
+    "Interview-Quesitons/Java-Interview-Questiosn/Images/Pasted image 20251025200437.png",
+    "Interview-Quesitons/Java-Interview-Questiosn/Images/Pasted image 20251025200253.png"
   ]
 }

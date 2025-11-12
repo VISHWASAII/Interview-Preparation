@@ -1,0 +1,5 @@
+- database Languages
+- Aggreagate function
+- view and triggers in sql
+- Primary and Foreign key
+- 

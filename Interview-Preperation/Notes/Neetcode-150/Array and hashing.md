@@ -1,4 +1,21 @@
+1. Swap two number without 3rd number?
 
+```
+import java.util.*;
+
+public class Main{
+    public static void main(String[] args){
+        int a = 10;
+        int b = 20;
+        
+        a = a + b;
+        b = a - b;
+        a = a - b;
+        
+        System.out.println(a+ " " + b);
+    }
+}
+```
 
 
 2. Anagram

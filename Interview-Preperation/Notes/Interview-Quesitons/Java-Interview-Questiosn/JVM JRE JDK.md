@@ -45,7 +45,7 @@ It need to be single entry point
 
 ## Execution Of Java program
 
-For program Execution java has three main components
+There are 3 main components that is needed to execute the program.
 
 ---
 
@@ -58,7 +58,7 @@ JDK which is software that is used to  **write** and **build** Java programs.
 
 - A **compiler (`javac`)** – which will convert Java code into bytecode. then it has tools
     
-- **Tools** like debugger and documentation helpers.
+- Then **Tools** like debugger and documentation helpers.
     
 - The **JRE** (so you can also run programs).
     
@@ -91,3 +91,14 @@ It takes the **bytecode** and turns it into **machine code** that the computer c
 
 That is why java called program independent once we compile the code then we can execute on any operating system which has JVM.
 
+## 12 - what is JIT 
+
+```
+The JIT compiler is a part of the Java Runtime Environment (JRE) that improves program performance by converting frequently executed Java bytecode into native machine code at runtime.so This allows the program to run faster.
+```
+
+## 13 - What is class Loader
+
+```
+The ClassLoader is a part of the Java Runtime Environment (JRE) responsible for dynamically loading Java classes and interfaces into the Java Virtual Machine (JVM) during program execution. It loads classes only when they are needed, which makes Java programs flexible and efficient
+```
